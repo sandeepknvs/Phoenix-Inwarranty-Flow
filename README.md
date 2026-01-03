@@ -137,7 +137,6 @@ newman run "Inwarranty-flow Collection.postman_collection.json"
 -e QA.postman_environment.json
 -d TestData.csv
 -r cli,htmlextra
---reporter-htmlextra-export ./newman/index.html
 ```
 
 ## Step 6: View the HTML Report ##
