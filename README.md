@@ -11,7 +11,7 @@ GitHub Actions automatically triggers test execution on:
 
 ---
 
-👨‍💻 About Me
+## 👨‍💻 About Me ##
 
 
 Hi 👋 I’m Sandeep, a passionate Test Engineer / Aspiring SDET with hands-on experience in API Automation, CI/CD pipelines, and automation framework design.
